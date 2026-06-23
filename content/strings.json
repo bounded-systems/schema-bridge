@@ -1,0 +1,10 @@
+{
+  "name": {
+    "type": "name",
+    "value": "Schema Bridge"
+  },
+  "description": {
+    "type": "meta",
+    "value": "We ESLint as an example cse but the hope is to make this work for any type sorcd"
+  }
+}
