@@ -3,8 +3,12 @@
     "type": "name",
     "value": "Schema Bridge"
   },
+  "tagline": {
+    "type": "tagline",
+    "value": "We ESLint as an example cse but the hope is to make this work for any type sorcd"
+  },
   "description": {
     "type": "meta",
-    "value": "We ESLint as an example cse but the hope is to make this work for any type sorcd"
+    "value": "We ESLint as an example cse but the hope is to make this work for any type sorcd json."
   }
 }
